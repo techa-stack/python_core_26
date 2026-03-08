@@ -1,5 +1,6 @@
 import keyword
 
+
 kwrds = keyword.kwlist
 print("No of keywords in python : ", len(kwrds))
 print(kwrds)
