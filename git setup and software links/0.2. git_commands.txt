@@ -1,0 +1,17 @@
+$ git init
+$ git add .
+$ git status
+$ git log
+$ git config --global user.email "a@b.com"
+$  git config --global user.name "ABC"
+$ git commit -m "Adding initialization"
+$ git log
+$ git remote add origin https://github.com/techa-stack/python_core_26.git
+$ git push -u origin master
+
+
+SSH-KEY
+$ ssh-keygen -t ed25519 -C "a@b.com"
+
+SSL Issue (Run this command to address it)
+git config --global http.sslbackend schannel
