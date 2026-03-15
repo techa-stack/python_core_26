@@ -1,0 +1,1 @@
+Local Editor (Source Code) => Add (Marking it for git) => commit (Keeps the changes on local repo) => push (change will go to remote repo - github)

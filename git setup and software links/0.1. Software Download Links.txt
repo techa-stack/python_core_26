@@ -1,0 +1,22 @@
+1. Python
+
+Download the latest version of version of python (64-bit)
+https://www.python.org/downloads/
+
+
+2. Anaconda
+https://www.anaconda.com/products/distribution
+
+
+3. Downlaod PyCharm - IDE
+
+Download community version - 
+https://www.jetbrains.com/pycharm/download/#section=windows
+
+
+4. MySQL
+VC++ -  https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170
+https://dev.mysql.com/downloads/workbench/
+
+
+5. VSCode
