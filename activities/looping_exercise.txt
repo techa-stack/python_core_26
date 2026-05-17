@@ -1,0 +1,39 @@
+# WAP to generate multiplication table of number provided by user.
+
+# I/P :
+1. Number from user : 2
+2. no of terms from user : 10
+
+# O/P :
+2 * 1 = 2
+2 * 2 = 4
+2 * 3 = 6
+.
+.
+2 * 10 = 20
+
+
+# WAP to get the factorial of a number
+(5! = 5 * 4 * 3 * 2 * 1 = 120)
+# Input :
+  Enter the number : 5
+
+# O/P:
+  Fcatorial = 120
+
+
+# WAP to print the sum of digits of a number
+(eg. 12345 = 1 + 2 + 3 + 4 + 5 = 15)
+
+# I/P : 12345
+# O/P : 15
+
+
+# WAP to print below pattern -
+
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+
