@@ -50,16 +50,25 @@
 16 17 18 19 20
 
 
+
+1 3 5 7 9
+11 13 15 17 19
+21 23 25 27 29
+31 33 35 37 39
+
+
 1 1 1 1 1
 2 2 2 2 2
 1 1 1 1 1
 2 2 2 2 2
+
 
 
 1 1 1 1 1
 2 2 2 2 2
 3 3 3 3 3
 4 4 4 4 4
+
 
 
 1 2 3 4 5
@@ -69,4 +78,7 @@
 
 
 # Complexity of a program
+
+What is Space and Time complexity with examples?
+What are the types ?
 Space and Time complexity for existing programs
