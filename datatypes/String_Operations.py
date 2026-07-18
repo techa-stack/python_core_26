@@ -299,3 +299,8 @@ lname = "Mehra"
 mylist = [fname, lname]
 print(" ".join(mylist))
 
+
+name = 'Ramesh'
+for i in name:
+   print(i)
+
